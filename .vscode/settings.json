@@ -1,0 +1,5 @@
+{
+    "files.eol": "\n", // Use "\r\n" for CRLF if needed
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // "editor.formatOnSave": true
+  }
