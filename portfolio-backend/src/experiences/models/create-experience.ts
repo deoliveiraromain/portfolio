@@ -1,6 +1,6 @@
 import { IsString, IsNotEmpty } from 'class-validator';
 
-export class CreateProject {
+export class CreateExperience {
   @IsString()
   @IsNotEmpty()
   title: string;
